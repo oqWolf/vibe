@@ -15,9 +15,9 @@
 	h2 {
 		color: #FAFAFA;
 	}
-	
-	.header { 
-		width: 740px; 
+
+	.header {
+		width: 740px;
 		height: 130px;
 		margin: 20px auto 10px auto;
 		background: #362F41;
@@ -29,7 +29,7 @@
 		box-shadow: 5px 5px 10px #000;
 		line-height: 130px;
 	 }
-	
+
 	.workarea {
 		margin: 20px auto 20px auto;
 		padding: 20px;
@@ -65,7 +65,7 @@
 		text-decoration: none;
 		margin-right: 20px;
 		text-shadow: 1px 1px 1px #000;
-		
+
 	}
 
 	details,
@@ -78,4 +78,4 @@
 	details summary::-webkit-details-marker { display:none; }
 	details > summary:first-of-type {
     		list-style-type: none;
-	}	
+	}
