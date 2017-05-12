@@ -67,3 +67,15 @@
 		text-shadow: 1px 1px 1px #000;
 		
 	}
+
+	details,
+	details summary {
+		padding-left:0;
+		background-image:none;
+		-webkit-appearance:none;
+	}
+
+	details summary::-webkit-details-marker { display:none; }
+	details > summary:first-of-type {
+    		list-style-type: none;
+	}	
